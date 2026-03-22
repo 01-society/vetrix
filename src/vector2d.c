@@ -73,6 +73,8 @@ Vector2D unit_vector2D(Vector2D vec){
 
 }
 
+
+// Debugging purpose only
 void print_vector(Vector2D vec){
     printf("%lfi+%lfj", vec.x , vec.y);
 }
