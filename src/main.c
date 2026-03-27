@@ -218,6 +218,6 @@ int main(){
 
     // print_stack(stack);
 
-    printf("Hello world");
+    printf("Hello world\n");
     return 0;
 }
