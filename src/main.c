@@ -217,5 +217,6 @@ int main(){
     // print_tokens_stream(tokens, count_required, expression);
 
     // print_stack(stack);
+    printf("Hello World");
     return 0;
 }
